@@ -1,7 +1,7 @@
 <h1 align="center">🌱 Passionate Developer with a Heart for Collaboration</h1>
 <p align="center"><strong>Taejin Kim</strong></p>
 <p align="center">
-  | Backend & Frontend Developer | Interested in Data, GIS |
+  | Backend & Frontend Developer | Data Engineer |
 </p>
 
 ---
