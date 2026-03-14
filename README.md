@@ -11,7 +11,7 @@
 | Period | University / Major | Note |
 |-----------------------|-------------------------------------|--------------|
 | 2017.03. – 2024.02. | Chung-Ang University / Chemical Engineering | Withdrawn (Freshman) |
-| 2024.03. – Present | Chung-Ang University / Computer Science & Engineering | Enrolled (Transfer) |
+| 2024.03. – 2026.08. | Chung-Ang University / Computer Science & Engineering | Enrolled (Transfer) |
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Period | Organization/Role | Key Projects & Responsibilities |
 |----------------------|----------------------------------------------------|----------------------------------------------------------------------------------------------|
-| 2025.03 – Present | **NineWatt (나인와트)** / Software Engineering Intern | - **[KICT]** 건물-도로 탄소배출량 가시화 시스템<br> &nbsp;→ 웹 프론트엔드 및 시뮬레이션 서버 개발 <br> - **[NineWatt]** 그린플래너<br> &nbsp;→ GIS 공간데이터 정제 파이프라인 구축 <br> - **[KIER]** 산업단지 재생에너지 플랫폼<br> &nbsp;→ 웹 프론트엔드 및 백엔드 개발 <br> - **[KALIS]** 그린리모델링 시각화 시스템<br> &nbsp;→ 시뮬레이션 서버 개발 |
+| 2025.03 – 2025.12 | **NineWatt (나인와트)** / Software Engineering Intern | - **[KICT]** 건물-도로 탄소배출량 가시화 시스템<br> &nbsp;→ 웹 프론트엔드 및 시뮬레이션 서버 개발 <br> - **[NineWatt]** 그린플래너<br> &nbsp;→ GIS 공간데이터 정제 파이프라인 구축 <br> - **[KIER]** 산업단지 재생에너지 플랫폼<br> &nbsp;→ 웹 프론트엔드 및 백엔드 개발 <br> - **[KALIS]** 그린리모델링 시각화 시스템<br> &nbsp;→ 시뮬레이션 서버 개발 |
 | 2025.01 – 2025.12 | **LikeLion-CAU** / Backend Executive Member | - **[Executive Member]** Backend 파트 운영<br> - **[Lucaus TF]** 중앙대 2025 봄 축제 웹 서비스<br> &nbsp;→ 프론트엔드 및 백엔드 개발 |
 | 2024.03 – 2024.12 | **LikeLion-CAU** / Frontend Developer | - **[Ideathon]** 나만의 휴식방법 탐색 플랫폼 – *휴게더* <br> - **[Hackathon]** 워라밸 관리 서비스 – *Workvalley*<br> &nbsp;→ 웹 프론트엔드<br> &nbsp;→ *2024 CAU-스타 오디션 우수상 수상* <br> - **[CAU-Hackathon]** 연말 추억 수집 서비스 – *Photori*<br> &nbsp;→ 웹 프론트엔드 |
 | 2024.09 – 2024.12   | **UMC (MakeUs Challenge)** / Backend Developer     | - **[Project]** 대학생 취미 기반 매칭 커뮤니티 - *MeetPick*<br> &nbsp;→ 백엔드 개발 |
